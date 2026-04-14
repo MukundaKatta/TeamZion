@@ -1,6 +1,6 @@
 # TeamZion — Teamzion project
 
-Teamzion project. TeamZion gives you a focused, inspectable implementation of that idea.
+Teamzion project.
 
 ## Why TeamZion
 
